@@ -1,0 +1,18 @@
+Pré Inscription; Authentification;
+Envoyer le code de vérification; Comunication;
+Vérifier le code; Authentification;
+Créer un mot de passe; Authentification;
+Question ? Data FRONT FORM ??
+Vérifier l'email existe déjà; Authentification;
+Envoyer un nouveau code de vérification; Comunication;
+Réinitialiser le mot de passe; Authentification;
+Valider Inscription (Admin); Gestion des utilisateurs;
+Se souvenir de moi; Authentification;
+Déconnexion; Authentification;
+Créer un compte (Admin); Gestion des utilisateurs;
+Supprimer un compte (Admin); Gestion des utilisateurs;
+Afficher les utilisateurs (Admin); Gestion des utilisateurs;
+Modifier les rôles des utilisateurs (Admin); Gestion des utilisateurs;
+Envoyer un email d'invitation/bienvenue; Comunication;
+
+
